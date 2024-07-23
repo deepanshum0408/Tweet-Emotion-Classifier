@@ -28,7 +28,7 @@ The primary goal of this project is to classify emotions into categories such as
 
 Below is the table of performance metrics for each model evaluated on the validation dataset:
 
-| Model                                | Train Accuracy | Test Accuracy | F1 Score (Test Data) | Precision (Train Data) | Recall (Test Data) |
+| Model                                | Train Accuracy | Test Accuracy | F1 Score (Test Data) | Precision (Test) Data) | Recall (Test Data) |
 |--------------------------------------|----------------|---------------|----------------------|------------------------|---------------------|
 | Custom BERT Model + Fine-tuned       | 0.881          | 0.788         | 0.606148             | 0.820222               | 0.598914            |
 | Pretrained BERT Model + Fine-tuned   | 0.89           | 0.79          | 0.93                 | 0.84                   | 0.56                |
